@@ -16,6 +16,7 @@
     width: 416px;
     height: 101px;
     border-radius: 10px;
+    /* color: aliceblue; */
 }
 
 .keypad{
@@ -207,4 +208,12 @@ border: 2px solid black;
     float: left;
     text-align: center;
     background-color:  rgb(254, 159, 11);
+}
+.circle{
+    float: left;
+    border-radius: 50px;
+    width: 15px;
+    height: 15px;
+    margin: 5px;
+    background-color: rgb(129, 129, 134);
 }
